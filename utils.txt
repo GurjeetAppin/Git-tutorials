@@ -1,1 +1,1 @@
-Utitlity page is used for version control. set the ssh key. Github Software.
+Utitlity page is used for version control.
